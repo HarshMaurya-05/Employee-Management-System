@@ -23,7 +23,7 @@ The Employee Management System is a user-friendly web application designed to si
 ## How to Set Up the Project
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/HarshMaurya-05/Employee-Management-System.git>
    ```
 
 2. Navigate to the project folder:
@@ -90,4 +90,19 @@ This project is licensed under the MIT License. Please refer to the LICENSE file
 
 ---
 For any queries or suggestions, feel free to contact us!
+## Screenshots
+
+Login Page
+
+![Screenshot (37)](https://github.com/user-attachments/assets/cc5cb2fc-63f7-4d64-904a-ca70ccd91236)
+
+Admin Dashboard
+
+![Screenshot (38)](https://github.com/user-attachments/assets/daaf9fda-83ea-48ec-93a2-111dd7dc6d5a)
+
+
+Employee Page
+
+![Screenshot (39)](https://github.com/user-attachments/assets/84a4dd6a-fde6-444e-bff5-0aeccf7b0035)
+
 
